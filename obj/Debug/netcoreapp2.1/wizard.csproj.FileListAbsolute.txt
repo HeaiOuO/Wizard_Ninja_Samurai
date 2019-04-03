@@ -1,0 +1,11 @@
+C:\Users\heai0\OneDrive\Desktop\wizard\bin\Debug\netcoreapp2.1\wizard.deps.json
+C:\Users\heai0\OneDrive\Desktop\wizard\bin\Debug\netcoreapp2.1\wizard.runtimeconfig.json
+C:\Users\heai0\OneDrive\Desktop\wizard\bin\Debug\netcoreapp2.1\wizard.runtimeconfig.dev.json
+C:\Users\heai0\OneDrive\Desktop\wizard\bin\Debug\netcoreapp2.1\wizard.dll
+C:\Users\heai0\OneDrive\Desktop\wizard\bin\Debug\netcoreapp2.1\wizard.pdb
+C:\Users\heai0\OneDrive\Desktop\wizard\obj\Debug\netcoreapp2.1\wizard.csprojAssemblyReference.cache
+C:\Users\heai0\OneDrive\Desktop\wizard\obj\Debug\netcoreapp2.1\wizard.csproj.CoreCompileInputs.cache
+C:\Users\heai0\OneDrive\Desktop\wizard\obj\Debug\netcoreapp2.1\wizard.AssemblyInfoInputs.cache
+C:\Users\heai0\OneDrive\Desktop\wizard\obj\Debug\netcoreapp2.1\wizard.AssemblyInfo.cs
+C:\Users\heai0\OneDrive\Desktop\wizard\obj\Debug\netcoreapp2.1\wizard.dll
+C:\Users\heai0\OneDrive\Desktop\wizard\obj\Debug\netcoreapp2.1\wizard.pdb
